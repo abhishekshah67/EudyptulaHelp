@@ -1,0 +1,7 @@
+Two basic things before you start:
+Little Penguine hates HTML mails. Convert your mails to plain text mode.
+Best way to proceed would be to setup thunderbird mail client and change the encoding to Western and plain text. 
+If you want to change encoding of files try the following command in VI(you got to use vi for this)
+:write ++enc=ISO-8859-1  task1.c
+
+Be patient, the submission takes time to produce results. 
