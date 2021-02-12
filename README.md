@@ -1,2 +1,2 @@
 # EudyptulaHelp
-Just a help repository for the kickstarting kernel Programming enthusiasts. 
+Resource repository for kickstarting the famous Eudyptula challenge[**Retired**] for kernel Programming enthusiasts. 
